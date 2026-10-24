@@ -3,54 +3,36 @@
     "file": "public/images/story/01-girl-studying-la-union.jpg",
     "location": "La Union, Philippines",
     "subject": "Girl studying with an SM200 solar light",
-    "credit": "Gabriel Mejia / One Million Solar Lights",
-    "source": "https://namenesolar.com/learning-with-light-how-our-solar-lights-connect-young-learners-around-the-world/",
-    "rights": "Rights retained by the source and photographer",
     "sha256": "25755f1e049210161919762f1178d2c1a925bf74ac84aae4d72ef247f8402678"
   },
   {
     "file": "public/images/story/02-child-studying-mindoro.jpg",
     "location": "Mansalay, Oriental Mindoro, Philippines",
     "subject": "Indigenous Filipino child studying by a solar lamp",
-    "credit": "Global Peace Foundation Philippines",
-    "source": "https://www.globalpeacephilippines.org/uncategorized/global-giving-solar-lamps-for-900-indigenous-filipino-children/",
-    "rights": "Rights retained by the source and photographer",
     "sha256": "ebd5204882fec1efb6a14b2d063809f482df8343a6eced57efaf8635f77a50db"
   },
   {
     "file": "public/images/story/03-children-studying-philippines.jpg",
     "location": "Philippines",
     "subject": "Children studying together with a Nokero solar light",
-    "credit": "United States Patent and Trademark Office / Nokero story",
-    "source": "https://www.uspto.gov/learning-and-resources/journeys-innovation/audio-stories/end-darkness",
-    "rights": "See the source page for reuse terms",
     "sha256": "938081a59374b36ad6e4700716c405f8ae50224f9327d57f8f3af7ad2770f552"
   },
   {
     "file": "public/images/story/04-children-with-solar-lamps-mindanao.jpeg",
     "location": "Jose Abad Santos, Mindanao, Philippines",
     "subject": "Children holding portable solar lanterns at dusk",
-    "credit": "CAMPFIRE project publisher",
-    "source": "https://camp-fire.jp/projects/776533/view",
-    "rights": "Rights retained by the source and photographer",
     "sha256": "ab72868464aba609c69601d7ea1f70358341d52a3f58dd3d8facefc2bc2a1a4e"
   },
   {
     "file": "public/images/story/05-mat-weaver-maguindanao.jpg",
     "location": "Datu Hoffer, Maguindanao, Philippines",
     "subject": "Zulaika Lamikan weaving an ikam mat",
-    "credit": "Bong Sarmiento / Oxfam Pilipinas",
-    "source": "https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/",
-    "rights": "Rights retained by Oxfam Pilipinas and the photographer",
     "sha256": "020ed9aa8d58ab41f91fad5dbdfaef2caa278b96df2123a264baf7ba1fa83ce5"
   },
   {
     "file": "public/images/story/06-weaver-with-solar-lamp-maguindanao.jpg",
     "location": "Datu Hoffer, Maguindanao, Philippines",
     "subject": "Zulaika Lamikan holding the lamp that lets her weave after dark",
-    "credit": "Bong Sarmiento / Oxfam Pilipinas",
-    "source": "https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/",
-    "rights": "Rights retained by Oxfam Pilipinas and the photographer",
     "sha256": "29c4358e439577893841e100c7558fc048949adfd1fc436134bd41344fa6bded"
   }
 ]
