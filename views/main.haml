@@ -1,0 +1,59 @@
+.container
+  .row
+    .span8.offset2
+      .hero-unit.mainpage
+        %img#hero-image.pull-right{:src => "/images/main_bulb.jpeg"}
+
+        %h1.safe
+          %a.safe{:href => "#safe"} Safe.
+        %h1.clean
+          %a.clean{:href => "#clean"} Clean.
+        %h1.cheap
+          %a.cheap{:href => "#cheap"} Cheap.
+        %h1.local
+          %a.local{:href => "#local"} Local.
+        %h1.light
+          %a.light{:href => "#light"} Light!
+        %br
+        %p
+          = markdown :'main/hero'
+
+  .summary
+    .row
+      .span5.offset1
+        %img.pull-right{src: "images/safe.jpg"}
+        %h1.safe
+          %a{:name => "safe"} 
+          Safe.
+        %p
+          = markdown :'main/safe'
+
+      .span5
+        %img.pull-right{src: "images/clean.jpg"}
+        %h1.clean
+          %a{:name => "clean"} 
+          Clean.
+        %p
+          = markdown :'main/clean'
+        
+    .row
+      .span5.offset1
+        %img.pull-left{src: "images/cheap.jpg"}
+        %h1.cheap
+          %a{:name => "cheap"} 
+          Cheap.
+        = markdown :'main/cheap'
+
+      .span5
+        %img.pull-left{src: "images/local.jpg"}
+        %h1.local
+          %a{:name => "local"} 
+          Local.
+        = markdown :'main/local'
+
+    .row
+      .span5.offset3
+        %h1.light
+          %a{:name => "light"}
+          Light.
+        = markdown :'main/light'
