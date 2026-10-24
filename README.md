@@ -8,9 +8,43 @@ We collect old electronics and reuse solar panels, batteries and LEDs. Using our
 
 In one village, a child told me that our lamp helped him read at night for the first time. In another, a grandmother said she could finally sew clothes after dark for her family. We realized that we were bringing not just a liter of light, but hope to an entire community.
 
+## The Light in Everyday Life · 光真正改变的生活
+
+下面的开场照片全部来自**菲律宾本地太阳能照明项目**。它们呈现的不是装饰灯，而是灯光最直接的意义：孩子能在天黑后继续读书，家庭手艺人能延长工作时间。照片用于说明项目所关注的问题与受益场景；除非来源明确写明，否则不表示照片中的灯由本仓库团队制作或发放。
+
+### 孩子在太阳能灯下读书
+
+<p align="center"><a href="https://namenesolar.com/learning-with-light-how-our-solar-lights-connect-young-learners-around-the-world/"><img src="public/images/story/01-girl-studying-la-union.jpg" alt="A girl in La Union, Philippines studies outdoors at dusk with a solar study light" width="760"></a></p>
+
+**拉乌尼翁，菲律宾。** 一个女孩在傍晚用 SM200 太阳能灯写作业。照片中的灯在书本上形成稳定的小范围照明，背景仍然是没有可靠室内电力的乡村住宅。摄影：Gabriel Mejia / One Million Solar Lights；[来源：Namene Solar](https://namenesolar.com/learning-with-light-how-our-solar-lights-connect-young-learners-around-the-world/)。
+
+<p align="center"><a href="https://www.globalpeacephilippines.org/uncategorized/global-giving-solar-lamps-for-900-indigenous-filipino-children/"><img src="public/images/story/02-child-studying-mindoro.jpg" alt="An indigenous Filipino child studies by a solar lamp in Oriental Mindoro" width="760"></a></p>
+
+**曼萨莱，东方民都洛。** 原住民社区的孩子在竹木住宅里借助太阳能灯学习。灯具替代了易引发火灾、烟雾和持续燃料支出的煤油灯。[来源：Global Peace Foundation Philippines](https://www.globalpeacephilippines.org/uncategorized/global-giving-solar-lamps-for-900-indigenous-filipino-children/)。
+
+<p align="center"><a href="https://www.uspto.gov/learning-and-resources/journeys-innovation/audio-stories/end-darkness"><img src="public/images/story/03-children-studying-philippines.jpg" alt="Filipino children study together at night with a portable solar light" width="760"></a></p>
+
+**菲律宾。** 三个孩子围着一盏便携式 Nokero 太阳能灯完成作业。集中、向下的光束把有限电量用在书本和纸张上，而不是照亮整间房。[来源：United States Patent and Trademark Office](https://www.uspto.gov/learning-and-resources/journeys-innovation/audio-stories/end-darkness)。
+
+<p align="center"><a href="https://camp-fire.jp/projects/776533/view"><img src="public/images/story/04-children-with-solar-lamps-mindanao.jpeg" alt="Children in a remote Mindanao community hold portable solar lanterns at dusk" width="640"></a></p>
+
+**棉兰老岛 Jose Abad Santos。** 偏远社区的孩子在天黑时展示收到的便携太阳能灯。提手、宽底座和侧向漫射罩让灯可以在回家、读书和家庭活动之间移动。[来源：CAMPFIRE 菲律宾太阳能项目](https://camp-fire.jp/projects/776533/view)。
+
+### 长辈在灯下延续手艺与收入
+
+<p align="center"><a href="https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/"><img src="public/images/story/05-mat-weaver-maguindanao.jpg" alt="A Filipino mat weaver works with plant strips in an evacuation camp in Maguindanao" width="760"></a></p>
+
+**Datu Hoffer，马京达瑙。** 53 岁的 Zulaika Lamikan 在安置营继续编织 ikam 草席。太阳能灯让她不用在天黑后停工，也不再依赖昏暗、需要反复购买燃料的煤油灯。
+
+<p align="center"><a href="https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/"><img src="public/images/story/06-weaver-with-solar-lamp-maguindanao.jpg" alt="Zulaika Lamikan holds the portable solar lamp that lets her weave after dark" width="760"></a></p>
+
+**同一位编织者与她使用的太阳能灯。** 这两张照片共同说明“灯下织布”的真实场景：白天记录编织工作，另一张记录使她能在夜间继续工作的便携灯。摄影：Bong Sarmiento / Oxfam Pilipinas；[来源：Oxfam Pilipinas](https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/)。
+
+> 上述 6 张开场照片保留原发布者和摄影者权利，仅作为非商业项目叙事与设计参考；它们不适用本仓库其他图片的开放许可。需要公开宣传或商业再使用时，请先向相应来源确认授权。
+
 ## 这套图片为什么符合项目主题
 
-本图集收录 **105 张**图片，全部围绕“菲律宾离网家庭需要的一盏灯”展开：从太阳能采集、废旧电子与电芯筛选，到 LED、电路焊接、社区制作，再到可携带、可维修的成品灯。这里没有 Parol、节庆灯笼、欧洲城市灯饰或与项目无关的人物照片。
+本 README 共展示 **111 张**图片：开头 6 张菲律宾受益场景照片，加上 105 张制作与技术图鉴。内容全部围绕“菲律宾离网家庭需要的一盏灯”展开：从太阳能采集、废旧电子与电芯筛选，到 LED、电路焊接、社区制作，再到可携带、可维修的成品灯。这里没有 Parol、节庆灯笼、欧洲城市灯饰或与项目无关的人物照片。
 
 Low-tech Lab 教程图片直接记录菲律宾偏远社区制作回收电池太阳能灯的过程；Wikimedia Commons 图片作为结构、材料和技术参考。技术参考图不代表是本团队制作的成品，也不代表图中设备已被 Liter of Light 使用。
 
@@ -1121,5 +1155,8 @@ bundle exec thin start -R config.ru -p 4567
 - [Low-tech Lab：菲律宾回收锂电池太阳能灯教程](https://wiki.lowtechlab.org/wiki/Lampe_solaire_%C3%A0_batteries_lithium_r%C3%A9cup%C3%A9r%C3%A9es/en) — 页面标注 CC BY。
 - [Low-tech Lab：Sitio Anipa 社区太阳能灯项目](https://lowtechlab.org/en/news-blog/nomade-des-mers-lampe-solaire) — 菲律宾项目背景。
 - [UNFCCC：A Liter of Light Philippines](https://unfccc.int/climate-action/momentum-for-change/lighthouse-activities/a-litre-of-light-philippines) — 项目背景参考。
+- [Namene Solar：菲律宾拉乌尼翁学生使用太阳能学习灯](https://namenesolar.com/learning-with-light-how-our-solar-lights-connect-young-learners-around-the-world/)。
+- [Oxfam Pilipinas：马京达瑙女性在太阳能灯帮助下延续编织生计](https://oxfam.org.ph/no-longer-in-the-dark-solar-lamps-help-women-in-maguindanao-evacuation-camps-earn-a-living/)。
+- [Global Peace Foundation Philippines：为菲律宾原住民孩子提供太阳能灯](https://www.globalpeacephilippines.org/uncategorized/global-giving-solar-lamps-for-900-indigenous-filipino-children/)。
 - Wikimedia Commons 图片逐项保留作者、原始文件页和许可；请以各文件页的最新许可为准。
 - 原始网站压缩包未附带统一 LICENSE，因此本仓库不对原网站代码声明新的统一许可证。
